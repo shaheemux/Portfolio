@@ -8,16 +8,18 @@ import Node from '../assets/node.png';
 import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
+
 import FIGMA from '../assets/icons8-figma-240-removebg-preview.png';
 import Adobe from '../assets/icons8-adobe-240-removebg-preview.png';
 import Python from '../assets/icons8-python-200-removebg-preview.png';
 import Linux from '../assets/icons8-linux-96-removebg-preview.png';
+import MYSQL from '../assets/icons8-mysql-250-removebg-preview.png';
+import C from '../assets/icons8-c-240-removebg-preview.png';
 
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300 '>
+    <div name='skills' className='w-full h-full bg-[#0a192f] text-gray-300 '>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
@@ -73,6 +75,14 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
                   <p className='my-4'>Python</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={C} alt="HTML icon" />
+                  <p className='my-4'>C++</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={MYSQL} alt="HTML icon" />
+                  <p className='my-4'>MYSQL</p>
               </div>
           </div>
       </div>
