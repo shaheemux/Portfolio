@@ -4,7 +4,7 @@ import { data } from "../data/data.js";
 
 const Work = () => {
 
-    // projects file
+    // projects filedoe
     const project = data;
     //setProject(data);
   
