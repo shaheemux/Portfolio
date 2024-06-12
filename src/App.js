@@ -6,7 +6,6 @@ import Skills from "./components/Skills";
 import Work from "./components/Work";
 import Footer from "./components/Footer";
 
-
 function App() {
   return (
     <div>
