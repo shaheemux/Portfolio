@@ -3,6 +3,8 @@ import Tailwind from '../assets/projects/tailwind.png'
 import Portfolio from '../assets/projects/Portfolio.png'
 import Tekken from '../assets/projects/tekken.png'
 import Mobile from '../assets/projects/mobile.png'
+import VUE from '../assets/projects/Vue.png'
+
 
 
 export const data=[
@@ -40,6 +42,13 @@ export const data=[
         image:Tekken,
         github:"https://github.com/shaheemux/tekken-8-gallary-.git",
         live:"https://tekken-8-gallary.vercel.app/",
+    },
+    {
+        id:6,
+        name:"VUE.js Portfolio",
+        image:VUE,
+        github:"https://github.com/shaheemux/VuePortfolio.git",
+        live:"https://vueportfolioemop.web.app",
     }
 
 
