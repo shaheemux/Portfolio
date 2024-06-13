@@ -51,5 +51,4 @@ export const data=[
         live:"https://vueportfolioemop.web.app",
     }
 
-
 ]
