@@ -12,8 +12,8 @@ import Adobe from '../assets/icons8-adobe-240-removebg-preview.png';
 import Python from '../assets/icons8-python-200-removebg-preview.png';
 import Linux from '../assets/icons8-linux-96-removebg-preview.png';
 import MYSQL from '../assets/icons8-mysql-240-removebg-preview.png';
-import AWS from '../assets/aws.png'
-import C from '../assets/icons8-c-240-removebg-preview.png';
+import WORDPRESS from '../assets/wordpress.png'
+import Premier from '../assets/Priemier.png';
 import Vue from '../assets/icons8-vue-js-240-removebg-preview.png'
 import PhotoShop from '../assets/shop.png'
 
@@ -55,7 +55,7 @@ const Skills = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Linux} alt="HTML icon" />
-                  <p className='my-4'>Linux</p>
+                  <p className='my-4'>LINUX</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
@@ -63,7 +63,7 @@ const Skills = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={PhotoShop} alt="HTML icon" />
-                  <p className='my-4'>PhotoShop</p>
+                  <p className='my-4'>PHOTOSHOP</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={FIGMA} alt="HTML icon" />
@@ -71,15 +71,15 @@ const Skills = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Adobe} alt="HTML icon" />
-                  <p className='my-4'>Adobe</p>
+                  <p className='my-4'>ADOBE</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
-                  <p className='my-4'>Python</p>
+                  <p className='my-4'>PYTHON</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={C} alt="HTML icon" />
-                  <p className='my-4'>C++</p>
+                  <img className='w-20 mx-auto' src={Premier} alt="HTML icon" />
+                  <p className='my-4'>PREMIER</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={MYSQL} alt="HTML icon" />
@@ -87,8 +87,8 @@ const Skills = () => {
               </div>
             
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={AWS} alt="HTML icon" />
-                  <p className='my-4'>AWS</p>
+                  <img className='w-20 mx-auto' src={WORDPRESS} alt="HTML icon" />
+                  <p className='my-4'>WORDPRESS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Vue} alt="HTML icon" />
