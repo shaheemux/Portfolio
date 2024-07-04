@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300 p-14'>
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           <div className='sm:text-right pb-8 pl-4'>
@@ -17,11 +17,8 @@ const About = () => {
               <p>Hi. I'm Shaheem Salie, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I am passionate about constantly upskilling in software that improves
+              the lives of those around me. I'm deeply passionate about the tech industry, constantly upskilling myself. Detail-oriented with a 'can-do' spirit, I stay updated on trends, enjoy video editing, graphic design, and drawing in my free time. Despite zero coding experience, joining Life Choices Academy's coding bootcamp ignited a newfound passion, empowering me to make my own life choices.</p>  
             </div>
           </div>
       </div>
