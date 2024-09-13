@@ -15,13 +15,7 @@ export const data=[
         github:"https://github.com/shaheemux/Netflix-Clone-.git",
         live:"https://netflix-clone-mu-jade.vercel.app/",
     },
-    {
-        id:2,
-        name:"Tailwind",
-        image:Tailwind,
-        github:"https://github.com/shaheemux/tailwind-project.git",
-        live:"https://tailwind-project-pi.vercel.app/",
-    },
+
     {
         id:3,
         name:"My Portfolio",
