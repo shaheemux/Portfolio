@@ -2,7 +2,7 @@ import NetFlix from '../assets/projects/netflix-background-6eijmcazwfrb9u6w.jpg'
 import Tailwind from '../assets/projects/tailwind.png'
 import Portfolio from '../assets/projects/Portfolio.png'
 import Tekken from '../assets/projects/tekken.png'
-import Mobile from '../assets/projects/mobile.png'
+import Natures from '../assets/projects/nature.png'
 import VUE from '../assets/projects/Vue.png'
 
 
@@ -31,10 +31,10 @@ export const data=[
     },
     {
         id:4,
-        name:"Mobile Prototype",
-        image:Mobile,
-        github:"https://github.com/shaheemux/mobile-app.git",
-        live:"https://mobile-app-drab.vercel.app",
+        name:"E-commerce/WordPress",
+        image:Natures,
+        github:"",
+        live:"https://dev-natures-nibbles.pantheonsite.io/",
     },
     {
         id:5,
