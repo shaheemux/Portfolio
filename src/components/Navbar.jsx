@@ -28,7 +28,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to='about' smooth={true} duration={500}>
-            About
+            Work
           </Link>
         </li>
         <li>
@@ -38,7 +38,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to='work' smooth={true} duration={500}>
-            Work
+            About
           </Link>
         </li>
         <li>
@@ -122,7 +122,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/10cd0K0_Q-6K-ZFaQ3HYFOl-_KyIGrsnx/view' target='blank_'
+              href='https://drive.google.com/file/d/1tbp02Nssd-KqDoDjX00hjZznto5fry2w/view?usp=sharing' target='blank_'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
