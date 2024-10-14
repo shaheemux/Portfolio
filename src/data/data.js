@@ -4,6 +4,7 @@ import Portfolio from '../assets/projects/Portfolio.png'
 import Tekken from '../assets/projects/tekken.png'
 import Natures from '../assets/projects/nature.png'
 import VUE from '../assets/projects/Vue.png'
+import Elemental from '../assets/projects/Elemental.png'
 
 
 
@@ -43,6 +44,12 @@ export const data=[
         image:VUE,
         github:"https://github.com/shaheemux/VuePortfolio.git",
         live:"https://vueportfolioemop.web.app",
+    },
+    {
+        id:7,
+        name:"Elemental",
+        image:Elemental,
+        github:"https://github.com/shaheemux/Elemental-challenge.git",
+        live:"https://elemental-challenge.vercel.app/",
     }
-
 ]
