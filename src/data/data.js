@@ -51,6 +51,6 @@ export const data=[
         name:"Whatsapp Interface",
         image:Whatsapp,
         github:"https://github.com/shaheemux/Chef.git",
-        live:"chef-red.vercel.app",
+        live:"https://chef-red.vercel.app/",
     }
 ]
