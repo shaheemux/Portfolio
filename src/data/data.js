@@ -3,6 +3,7 @@ import Natures from '../assets/projects/nature.png'
 import VUE from '../assets/projects/Vue.png'
 import Elemental from '../assets/projects/Elemental.png'
 import Gallery from '../assets/projects/gallery.png'
+import Whatsapp from '../assets/projects/whatsapp.png'
 
 
 
@@ -44,5 +45,12 @@ export const data=[
         image:Gallery,
         github:"https://github.com/shaheemux/Gallery.git",
         live:"https://gallery-henna-five.vercel.app/",
+    },
+    {
+        id:6,
+        name:"Whatsapp Interface",
+        image:Whatsapp,
+        github:"https://github.com/shaheemux/Chef.git",
+        live:"chef-red.vercel.app",
     }
 ]
