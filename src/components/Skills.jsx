@@ -4,7 +4,6 @@ import HTML from '../assets/html.png';
 import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
-import Node from '../assets/node.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import FIGMA from '../assets/icons8-figma-240-removebg-preview.png';
@@ -13,14 +12,11 @@ import Python from '../assets/icons8-python-200-removebg-preview.png';
 import Linux from '../assets/icons8-linux-96-removebg-preview.png';
 import MYSQL from '../assets/icons8-mysql-240-removebg-preview.png';
 import WORDPRESS from '../assets/wordpress.png'
-import Premier from '../assets/Priemier.png';
-import Vue from '../assets/icons8-vue-js-240-removebg-preview.png'
-import PhotoShop from '../assets/shop.png'
 
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-full bg-[#0a192f] text-gray-300 '>
+    <div name='skills' className='w-full h-full p-4 bg-[#0a192f] text-gray-300 p-8'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
@@ -50,20 +46,12 @@ const Skills = () => {
                   <p className='my-4'>GITHUB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
-                  <p className='my-4'>NODE JS</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Linux} alt="HTML icon" />
                   <p className='my-4'>LINUX</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
                   <p className='my-4'>TAILWIND</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={PhotoShop} alt="HTML icon" />
-                  <p className='my-4'>PHOTOSHOP</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={FIGMA} alt="HTML icon" />
@@ -78,10 +66,6 @@ const Skills = () => {
                   <p className='my-4'>PYTHON</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Premier} alt="HTML icon" />
-                  <p className='my-4'>PREMIER</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={MYSQL} alt="HTML icon" />
                   <p className='my-4'>MYSQL</p>
               </div>
@@ -89,10 +73,6 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={WORDPRESS} alt="HTML icon" />
                   <p className='my-4'>WORDPRESS</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Vue} alt="HTML icon" />
-                  <p className='my-4'>VUE.JS</p>
               </div>
               
           </div>
