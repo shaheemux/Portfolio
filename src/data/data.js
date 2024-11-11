@@ -1,5 +1,5 @@
 import NetFlix from '../assets/projects/netflix-background-6eijmcazwfrb9u6w.jpg'
-import Natures from '../assets/projects/nature.png'
+import Cred from '../assets/projects/cred.png'
 import VUE from '../assets/projects/Vue.png'
 import Elemental from '../assets/projects/Elemental.png'
 import Gallery from '../assets/projects/gallery.png'
@@ -20,10 +20,10 @@ export const data=[
     },
     {
         id:2,
-        name:"E-commerce/WordPress",
-        image:Natures,
+        name:"Agency UI Design",
+        image:Cred,
         github:"",
-        live:"https://dev-natures-nibbles.pantheonsite.io/",
+        live:"https://creative-credentials.my.canva.site/",
     },
     {
         id:3,
