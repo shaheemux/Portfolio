@@ -2,6 +2,7 @@ import Cred from '../assets/projects/cred.png'
 import Elemental from '../assets/projects/Elemental.png'
 import Whatsapp from '../assets/projects/whatsapp.png'
 import newspaper from '../assets/projects/newspaper.png'
+import Carwash from '../assets/projects/CarWash.png'
 
 
 
@@ -38,6 +39,13 @@ export const data=[
         image:newspaper,
         github:"",
         live:"https://drive.google.com/file/d/1e1jBPpCMCpEcAYOFT-Fz0LU5vsVvJje2/view?usp=sharing",
+    },
+    {
+        id:5,
+        name:"Carwash Booklet",
+        image:Carwash,
+        github:"",
+        live:"https://drive.google.com/file/d/1YQCQtl2RC9vqP9xBv2_x9cw2zED6ZHhC/view?usp=sharing",
     },
     
 
