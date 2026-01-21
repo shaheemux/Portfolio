@@ -9,7 +9,7 @@ import Tailwind from '../assets/tailwind.png';
 import FIGMA from '../assets/icons8-figma-240-removebg-preview.png';
 import Adobe from '../assets/icons8-adobe-240-removebg-preview.png';
 import Canva from '../assets/canva.png'
-import Linux from '../assets/icons8-linux-96-removebg-preview.png';
+import affinity from '../assets/affinity.svg';
 import MYSQL from '../assets/icons8-mysql-240-removebg-preview.png';
 import WORDPRESS from '../assets/wordpress.png'
 
@@ -46,8 +46,8 @@ const Skills = () => {
                   <p className='my-4'>GITHUB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Linux} alt="HTML icon" />
-                  <p className='my-4'>LINUX</p>
+                  <img className='w-20 mx-auto' src={affinity} alt="HTML icon" />
+                  <p className='my-4'>AFFINITY</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />

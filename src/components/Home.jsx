@@ -11,7 +11,7 @@ const Home = () => {
           Shaheem Salie 
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm an Aspiring Developer
+          I'm an aspiring designer 
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I’m a Aspiring Graphic Designer specializing in building (and occasionally designing) exceptional digital experiences .

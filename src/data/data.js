@@ -3,7 +3,7 @@ import Elemental from '../assets/projects/Elemental.png'
 import Whatsapp from '../assets/projects/whatsapp.png'
 import newspaper from '../assets/projects/newspaper.png'
 import Carwash from '../assets/projects/CarWash.png'
-
+import shaheem from '../assets/projects/Shaheem.png'
 
 
 
@@ -46,6 +46,13 @@ export const data=[
         image:Carwash,
         github:"",
         live:"https://drive.google.com/file/d/1YQCQtl2RC9vqP9xBv2_x9cw2zED6ZHhC/view?usp=sharing",
+    },
+    {
+        id:5,
+        name:"Portfolio",
+        image:shaheem,
+        github:"",
+        live:"https://drive.google.com/file/d/1ql2KU61Fuhf1-3DulESyVRWnU2d-5yWX/view?usp=sharing",
     },
     
 
